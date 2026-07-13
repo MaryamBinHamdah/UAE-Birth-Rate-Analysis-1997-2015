@@ -58,6 +58,12 @@ This project was my first deep dive into the world of data analytics, solidifyin
 
 ---
 
+## 📄 Project Documentation
+For a detailed explanation of the methodology, data analysis process, and full findings, please refer to the project report:
+* [View UAE Birth Rate Analysis Report (PDF)](UAE-Birth-Rate-Analysis-ICT2013.docs/UAE-Birth-Rate-Analysis-ICT2013.pdf)
+
+---
+
 ## 📈 Key Findings & Visualizations
 
 
